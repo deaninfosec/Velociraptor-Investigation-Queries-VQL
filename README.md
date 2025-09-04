@@ -1,6 +1,6 @@
 # Velociraptor VQL Query Collection
 
-A curated repository of **Velociraptor Query Language (VQL)** artifacts used for **Digital Forensics and Incident Response (DFIR)**, **threat hunting**, and **endpoint investigation**.
+A curated repository of **Velociraptor Query Language (VQL)** artifacts used for **DFIR** and **threat hunting**.
 
 Built to support rapid, repeatable investigations using the open-source [Velociraptor](https://www.velociraptor.app/) DFIR platform.
 
